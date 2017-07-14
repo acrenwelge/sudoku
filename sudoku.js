@@ -5,6 +5,9 @@ TO DO:
 -Fix solver function and test
 -Write more tests
 -Clean up code / organize better
+-Stop timer when user solves the puzzle
+-Add option to turn instant feedback on/off
+-Fix bug on third-from-easy difficulty which prevents numeric input
 */
 var sudoku = {
 }
